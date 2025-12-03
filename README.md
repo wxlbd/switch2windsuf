@@ -115,4 +115,5 @@ If you encounter any issues or have suggestions, please provide feedback through
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=wxlbd/switch2windsurf&type=Date)](https://star-history.com/#wxlbd/switch2windsurf&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=wxlbd/switch2windsurf&type=date&legend=top-left)](https://www.star-history.com/#wxlbd/switch2windsurf&type=date&legend=top-left)
+

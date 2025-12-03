@@ -113,6 +113,6 @@ cd switch2windsurf
 如果遇到问题或有建议,请通过以下方式反馈:
 - [提交 GitHub Issue](https://github.com/wxlbd/switch2windsurf/issues)
 
-## 🌟 Star 历史
+## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=wxlbd/switch2windsurf&type=Date)](https://star-history.com/#wxlbd/switch2windsurf&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=wxlbd/switch2windsurf&type=date&legend=top-left)](https://www.star-history.com/#wxlbd/switch2windsurf&type=date&legend=top-left)
