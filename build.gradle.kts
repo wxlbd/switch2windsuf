@@ -4,8 +4,8 @@ plugins {
     id("org.jetbrains.intellij") version "1.17.4"
 }
 
-group = "com.github.wxlbd"
-version = "2.0.0"
+group = "com.github.wxl"
+version = "3.0.0"
 
 
 repositories {
@@ -15,12 +15,13 @@ repositories {
 // Configure Gradle IntelliJ Plugin
 // Read more: https://plugins.jetbrains.com/docs/intellij/tools-gradle-intellij-plugin.html
 intellij {
-    version.set("2022.3")
+    version.set("2024.1")
     type.set("IC") // Target IDE Platform
     pluginName.set("Switch2Windsurf")
     updateSinceUntilBuild.set(true)
     sameSinceUntilBuild.set(false)
 
+    instrumentCode.set(false)
     plugins.set(listOf(/* Plugin Dependencies */))
 }
 
@@ -35,7 +36,7 @@ tasks {
     }
 
     patchPluginXml {
-        sinceBuild.set("223")
+        sinceBuild.set("241")
         untilBuild.set("")
     }
 
