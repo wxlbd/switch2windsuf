@@ -1,12 +1,13 @@
 # Switch2Windsurf
 
+> Forked from [switch2cursor](https://github.com/qczone/switch2cursor)
+
 [English](README.md)
 
-> 💡 推荐在 Windsurf 中配合 [Switch2IDEA](https://github.com/wxlbd/switch2idea) 使用
+> 💡 推荐在 Windsurf 中配合 [Switch2IDEA](https://github.com/wxqczonelbd/switch2idea) 使用
 
 
-[![JetBrains Plugins](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID?label=JetBrains%20Marketplace&style=for-the-badge&logo=intellij-idea)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID?style=for-the-badge&logo=intellij-idea)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 ## 🔍 项目简介
@@ -36,14 +37,8 @@
 
 ## 🛠️ 安装指南
 
-### 方式一:通过 JetBrains 插件市场安装
-1. 打开 IDE → `Settings` → `Plugins` → `Marketplace`
-2. 搜索 switch2windsurf
-3. 点击 `Install` 完成安装
-4. 点击 `OK` 生效
-
-### 方式二:本地安装
-1. 从 [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/PLUGIN_ID) 下载最新版插件包
+### 本地安装
+1. 从 [GitHub Releases](https://github.com/wxlbd/switch2windsurf/releases) 下载最新版插件包
 2. IDE → `Settings` → `Plugins` → `⚙️`→ `Install Plugin from Disk...`
 3. 选择下载的插件包
 4. 点击 `OK` 生效

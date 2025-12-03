@@ -1,12 +1,13 @@
 # Switch2Windsurf
 
+> Forked from [switch2cursor](https://github.com/qczone/switch2cursor)
+
 [中文文档](README_zh.md)
 
-> 💡 Recommended to use with [Switch2IDEA](https://github.com/wxlbd/switch2idea) in Windsurf
+> 💡 Recommended to use with [Switch2IDEA](https://github.com/qczone/switch2idea) in Windsurf
 
 
-[![JetBrains Plugins](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID?label=JetBrains%20Marketplace&style=for-the-badge&logo=intellij-idea)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID?style=for-the-badge&logo=intellij-idea)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 ## 🔍 Introduction
@@ -36,14 +37,8 @@ A JetBrains IDE plugin that enhances development efficiency by enabling seamless
 
 ## 🛠️ Installation Guide
 
-### Method 1: Install via JetBrains Marketplace
-1. Open IDE → `Settings` → `Plugins` → `Marketplace`
-2. Search for switch2windsurf
-3. Click `Install` to complete installation
-4. Click `OK` to apply changes
-
-### Method 2: Local Installation
-1. Download the latest plugin package from [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
+### Local Installation
+1. Download the latest plugin package from [GitHub Releases](https://github.com/wxlbd/switch2windsurf/releases)
 2. IDE → `Settings` → `Plugins` → `⚙️`→ `Install Plugin from Disk...`
 3. Select the downloaded plugin package
 4. Click `OK` to apply changes
